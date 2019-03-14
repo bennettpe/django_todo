@@ -27,7 +27,7 @@ SECRET_KEY = 'l=sh9aoh%q7x!_d7cb)$fkm&wo3(e767qgpi_cslowug85jfen'
 DEBUG = True
 
 ALLOWED_HOSTS = ['django-todo-bennettpe.c9users.io',
-                 'simple-django-todo.herokuapp.com']
+                 'simple-todo-django.herokuapp.com']
 
 
 # Application definition
